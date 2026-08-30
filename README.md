@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Swamy2062154/Applied-programming-skills/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swamy2062154/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Swamy2062154/Applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Swamy2062154/Applied-programming-skills/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Swamy2062154/Applied-programming-skills/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Swamy2062154/Applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
